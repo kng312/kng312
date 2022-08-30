@@ -35,7 +35,7 @@ public class MemberService {
 
     /*
     * 전체 회원 조회
-    * */
+    *git test */
 
     public List<Member> findMember() {
         return memberRepository.findAll();
